@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"MyTestGroup.MavenPracticaFinal_JavaDoc","c":"javaDoc","l":"javaDoc()","u":"%3Cinit%3E()"},{"p":"MyTestGroup.MavenPracticaFinal_JavaDoc","c":"javaDoc","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
